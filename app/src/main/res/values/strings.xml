@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YZU Taxi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!--register -->
+    <string name="regester_title">註冊</string>
+    <string name="your_email">妳的學校信箱</string>
+    <string name="is_easy">對！就是這麼簡單！</string>
+    <string name="it_is_tip">我是指這個步驟啦</string>
+    
+    <string name="next">接下來...</string>
+    <string name="nicknake">暱稱</string>
+    <string name="password">密碼</string>
+    <string name="verification_code">信箱驗證碼</string>
+
+    <!--suggest-->
+
+    <string name="nice_name">噢！好名字！</string>
+    <string name="why_password">想知道我幹嘛？</string>
+    <string name="choose_me">選我正解</string>
+    <string name="verification_it">就在剛剛一行神秘的符號出現在你的學校信箱中，不輸入這串數字，你無法享受共乘的樂趣</string>
+    <string name="can_not_verification">不方便？</string>
+    <string name="skip_verification">跳過驗證步驟</string>
+
+</resources>
